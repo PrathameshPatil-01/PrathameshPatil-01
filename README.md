@@ -21,11 +21,13 @@
   <a href="https://twitter.com/Prathamesh_2703" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-Prathamesh%20Patil-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
-</div><br><br>
+</div>
 
+---
+
+<div align="center"><h1> 🚀 Experienced In</h1></div>
 
 <table align="center">
-  <tr><td align="center"><h1> 🚀 Experienced In</h1></td></tr><br>
   <tr>
     <td align="center">
       <h3>💻 Languages</h3>
