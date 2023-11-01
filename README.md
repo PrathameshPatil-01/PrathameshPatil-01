@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Connect with Me</h1>
+  <h1>🔗 Connect with Me</h1><br>
   <a href="https://github.com/PrathameshPatil-01" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-PrathameshPatil--01-blue?style=for-the-badge&logo=github" alt="GitHub">
   </a>
@@ -10,22 +10,19 @@
   <a href="https://twitter.com/Prathamesh_2703" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-Prathamesh%20Patil-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
-</div>
+</div><br><br>
 
-
----
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PrathameshPatil-01&color=blueviolet" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
 </div>
 
 
----
-
 <table align="center">
-  <tr><td align="center"><h1>Experienced In</h1></td></tr>
+  <tr><td align="center"><h1> 🚀 Experienced In</h1></td></tr><br>
   <tr>
     <td align="center">
-      <h3>Languages</h3>
+      <h3>💻 Languages</h3>
+      <br>
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
@@ -36,7 +33,7 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>Frameworks & Libraries</h3>
+      <h3>🛠 Frameworks & Libraries</h3><br>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
       <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
@@ -58,7 +55,7 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>Databases</h3>
+      <h3>📂 Databases</h3><br>
       <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
@@ -66,7 +63,7 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>Hosting</h3>
+      <h3>🌐 Hosting Platforms</h3><br>
       <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white" alt="Render">
       <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white" alt="Heroku">
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
@@ -74,7 +71,7 @@
   </tr>
   <tr>
     <td align="center">
-      <h3>Prototyping Platforms</h3>
+      <h3>🧰 Prototyping Platforms</h3><br>
       <img src="https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
     </td>
@@ -83,74 +80,17 @@
 
 
 
-
----
-
 <div align="center">
-  <h1>GitHub Stats</h1>
+  <h1> 📊 GitHub Stats</h1><br>
   <div style="display: flex; justify-content: space-around;">
     <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Prathamesh's GitHub Stats"/>
-    </div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&show_icons=true&count_private=true&hide=prs&theme=vision-friendly-dark" alt="Prathamesh's GitHub Stats"/>
+    </div><br><br>
     <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=compact&theme=radical" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
     </div>
   </div>
 </div>
 
-
-<div align="center">
-  <h1 style="color: #e67e22;">Connect with Me</h1>
-  <a href="https://github.com/PrathameshPatil-01" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-PrathameshPatil--01-blue?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/prathamesh-patil-10-12-2001-pp" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Patil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/Prathamesh_2703" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-Prathamesh%20Patil-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>
-
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathameshPatil-01&color=blueviolet" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
-</div>
-
----
-
-<table align="center">
-  <tr><td align="center"><h1 style="color: #e67e22;">Experienced In</h1></td></tr>
-  <tr>
-    <td align="center">
-      <h3 style="color: #e67e22;">Languages</h3>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <!-- Add other language badges here -->
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3 style="color: #e67e22;">Frameworks & Libraries</h3>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-      <!-- Add other framework and library badges here -->
-    </td>
-  </tr>
-  <!-- Add similar sections for Databases, Hosting, and Prototyping Platforms -->
-</table>
-
----
-
-<div align="center">
-  <h1 style="color: #e67e22;">GitHub Stats</h1>
-  <div style="display: flex; justify-content: space-around;">
-    <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Prathamesh's GitHub Stats"/>
-    </div>
-    <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=compact&theme=radical" alt="Top Languages" />
-    </div>
-  </div>
-</div>
-
 
