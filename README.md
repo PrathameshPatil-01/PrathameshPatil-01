@@ -23,9 +23,6 @@
   </a>
 </div><br><br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathameshPatil-01&color=blueviolet" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
-</div><br>
 
 <table align="center">
   <tr><td align="center"><h1> 🚀 Experienced In</h1></td></tr><br>
@@ -98,7 +95,11 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=compact&theme=slateorange&bg_color=50,000000,950101" alt="Top Languages" />
     </div>
   </div>
-</div>
+</div><br><br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrathameshPatil-01&color=blueviolet" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
+</div><br>
 
 ---
 
