@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" height=350 width=700 />
+</p><br><br>
+
+<div align="center">
+<h1>👋 Hi, I’m @PrathameshPatil-01</h1>
+</div><br><br>
+<p align="center">
+💼 Currently seeking new opportunities in software development.<br><br>
+🌱 Enthusiastic about learning and adopting emerging technologies.<br><br>
+🔭 Exploring the worlds of mobile app development (Flutter/Dart), web development (MERN stack), and more.<br><br>
+🚀 Committed to delivering clean, efficient, and well-documented code.<br><br>
+💡 Love turning ideas into innovative projects.<br><br>
+</p>
+<br>
 
 <div align="center">
   <h1>🔗 Connect with Me</h1><br>
@@ -76,7 +91,7 @@
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
     </td>
   </tr>
-</table>
+</table><br><br>
 
 
 
@@ -84,10 +99,10 @@
   <h1> 📊 GitHub Stats</h1><br>
   <div style="display: flex; justify-content: space-around;">
     <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&show_icons=true&count_private=true&hide=prs&theme=vision-friendly-dark" alt="Prathamesh's GitHub Stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&show_icons=true&count_private=true&hide=prs&theme=slateorange&bg_color=50,000000,950101" alt="Prathamesh's GitHub Stats"/>
     </div><br><br>
     <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=compact&theme=slateorange&bg_color=50,000000,950101" alt="Top Languages" />
     </div>
   </div>
 </div>
