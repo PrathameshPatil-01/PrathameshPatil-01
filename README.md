@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" height=300 width=500 />
-</p><br><br>
+  <img src="Prathamesh.gif" />
+</p><br>
 
-<div align="center">
-<h1>👋 Hi, I’m @PrathameshPatil-01</h1>
-</div><br><br>
 <p align="center">
 💼 Currently seeking new opportunities in software development.<br><br>
 🌱 Enthusiastic about learning and adopting emerging technologies.<br><br>
