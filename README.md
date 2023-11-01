@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>Connect with Me</h1>
   <a href="https://github.com/PrathameshPatil-01" target="_blank" rel="noopener noreferrer">
@@ -97,5 +98,59 @@
   </div>
 </div>
 
+
+<div align="center">
+  <h1 style="color: #e67e22;">Connect with Me</h1>
+  <a href="https://github.com/PrathameshPatil-01" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-PrathameshPatil--01-blue?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/prathamesh-patil-10-12-2001-pp" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Patil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/Prathamesh_2703" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-Prathamesh%20Patil-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrathameshPatil-01&color=blueviolet" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
+</div>
+
+---
+
+<table align="center">
+  <tr><td align="center"><h1 style="color: #e67e22;">Experienced In</h1></td></tr>
+  <tr>
+    <td align="center">
+      <h3 style="color: #e67e22;">Languages</h3>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <!-- Add other language badges here -->
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3 style="color: #e67e22;">Frameworks & Libraries</h3>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+      <!-- Add other framework and library badges here -->
+    </td>
+  </tr>
+  <!-- Add similar sections for Databases, Hosting, and Prototyping Platforms -->
+</table>
+
+---
+
+<div align="center">
+  <h1 style="color: #e67e22;">GitHub Stats</h1>
+  <div style="display: flex; justify-content: space-around;">
+    <div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&show_icons=true&count_private=true&hide=prs&theme=radical" alt="Prathamesh's GitHub Stats"/>
+    </div>
+    <div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=compact&theme=radical" alt="Top Languages" />
+    </div>
+  </div>
+</div>
 
 
