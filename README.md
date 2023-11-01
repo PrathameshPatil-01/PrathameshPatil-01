@@ -7,10 +7,9 @@
 🌱 Enthusiastic about learning and adopting emerging technologies.<br><br>
 🔭 Exploring the worlds of mobile app development (Flutter/Dart), web development (MERN stack), and more.<br><br>
 🚀 Committed to delivering clean, efficient, and well-documented code.<br><br>
-💡 Love turning ideas into innovative projects.<br><br>
+💡 Love turning ideas into innovative projects.
 </p>
 <br>
-
 <div align="center">
   <h1>🔗 Connect with Me</h1><br>
   <a href="https://github.com/PrathameshPatil-01" target="_blank" rel="noopener noreferrer">
@@ -26,8 +25,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PrathameshPatil-01&color=blueviolet" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
-</div>
-
+</div><br>
 
 <table align="center">
   <tr><td align="center"><h1> 🚀 Experienced In</h1></td></tr><br>
@@ -88,9 +86,7 @@
       <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
     </td>
   </tr>
-</table><br><br>
-
-
+</table><br>
 
 <div align="center">
   <h1> 📊 GitHub Stats</h1><br>
