@@ -18,8 +18,8 @@
   <a href="https://www.linkedin.com/in/prathamesh-patil-10-12-2001-pp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Patil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/Prathamesh_2703" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-Prathamesh%20Patil-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/imPBPatil" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-@imPBPatil-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
 </div>
 
@@ -154,16 +154,16 @@
   <h1> 📊 GitHub Stats</h1><br>
   <div style="display: flex; justify-content: space-around;">
     <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&show_icons=true&count_private=true&hide=prs&theme=slateorange&bg_color=50,000000,950101" alt="Prathamesh's GitHub Stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&show_icons=true&count_private=true&hide=prs&theme=slateorange&bg_color=50,000000,3E3636,000000" alt="Prathamesh's GitHub Stats"/>
     </div><br><br>
     <div>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=compact&theme=slateorange&bg_color=50,000000,950101" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=compact&theme=vision-friendly-dark&bg_color=50,000000,3E3636,000000" alt="Top Languages" />
     </div>
   </div>
 </div><br><br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathameshPatil-01&color=blueviolet" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
+  <img src="https://komarev.com/ghpvc/?username=PrathameshPatil-01&color=D80032" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
 </div><br>
 
 ---
