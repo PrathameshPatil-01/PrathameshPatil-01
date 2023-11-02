@@ -164,7 +164,7 @@
 </div><br><br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathameshPatil-01&color=08D9D6" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
+  <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=PrathameshPatil-01&color=blue" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
 </div><br>
 
 ---
