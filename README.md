@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="Prathamesh.gif" />
-</p><br>
+  <img src="Prathamesh1.png" />
+</p>
 
 <p align="center">
 💼 Currently seeking new opportunities in software development.<br><br>
