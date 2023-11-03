@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Prathamesh1.png" />
+  <img src="prathamesh.gif" />
 </p>
 
 <p align="center">
