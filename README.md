@@ -21,6 +21,10 @@
   <a href="https://twitter.com/imPBPatil" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-@imPBPatil-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
+  <a href="https://prathamesh-patil-700c0.web.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Prathamesh_Patil-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+
 </div>
 
 ---
