@@ -9,9 +9,18 @@
 🚀 Committed to delivering clean, efficient, and well-documented code.<br><br>
 💡 Love turning ideas into innovative projects.
 </p>
+
 <br>
 <div align="center">
-  <h1>🔗 Connect with Me</h1><br>
+  <h1>MY PORTFOLIO </h1><br>
+  <a href="https://prathamesh-patil-700c0.web.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Prathamesh_Patil-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+</div>
+
+<br>
+<div align="center">
+  <h1> CONNECT WITH ME </h1><br>
   <a href="https://github.com/PrathameshPatil-01" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-PrathameshPatil--01-blue?style=for-the-badge&logo=github" alt="GitHub">
   </a>
@@ -21,15 +30,11 @@
   <a href="https://twitter.com/imPBPatil" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-@imPBPatil-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://prathamesh-patil-700c0.web.app" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-Prathamesh_Patil-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
-
 </div>
 
 ---
 
-<div align="center"><h1> 🚀 Experienced In</h1></div>
+<div align="center"><h1> SKILLS </h1></div>
 
 <table align="center">
   <tr>
@@ -156,7 +161,7 @@
 
 
 <div align="center">
-  <h1> 📊 GitHub Stats</h1><br>
+  <h1> GITHUB STATS</h1><br>
   <div style="display: flex; justify-content: space-around;">
     <div>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&show_icons=true&count_private=true&hide=prs&theme=slateorange&title_color=08D9D6&bg_color=50,000000,3E3636,000000&icon_color=08D9D6" alt="Prathamesh's GitHub Stats"/>
