@@ -21,9 +21,6 @@
 <br>
 <div align="center">
   <h1> CONNECT WITH ME </h1><br>
-  <a href="https://github.com/PrathameshPatil-01" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-PrathameshPatil--01-blue?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/in/prathamesh-patil-10-12-2001-pp" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Prathamesh%20Patil-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
