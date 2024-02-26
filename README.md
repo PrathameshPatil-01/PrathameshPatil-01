@@ -156,7 +156,6 @@
 </table><br>
 
 
-
 <div align="center">
   <h1> GITHUB STATS</h1><br>
   <div style="display: flex; justify-content: space-around;">
@@ -167,11 +166,12 @@
       <img height="400em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=pie&theme=vision-friendly-dark&bg_color=50,000000,3E3636,000000&title_color=08D9D6" alt="Top Languages" />
     </div>
   </div>
-</div><br><br>
+</div><br>
 
+<br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=PrathameshPatil-01&color=blue" alt="Profile Hits Counter" style="width: 200px; height: 40px;">
 </div><br>
 
 ---
-
+[![Prathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathameshPatil-01&theme=merko&line=08D9D6)](https://github.com/PrathameshPatil-01/github-readme-activity-graph)
