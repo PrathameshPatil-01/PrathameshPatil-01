@@ -112,6 +112,12 @@
       <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=08D9D6&color=393E46&labelColor=black" alt="React">
       </a>
+      <a href="https://vuejs.org/">
+        <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=08D9D6&color=393E46&labelColor=black" alt="Vue">
+      </a>
+      <a href="https://vuetifyjs.com/">
+        <img src="https://img.shields.io/badge/Vuetify-393E46?style=for-the-badge&logo=vuetify&logoColor=08D9D6&color=393E46&labelColor=black" alt="Vuetify">
+      </a>
     </td>
   </tr>
   <tr>
