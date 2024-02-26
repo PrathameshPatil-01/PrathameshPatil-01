@@ -163,7 +163,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshPatil-01&rank_icon=github&show_icons=true&count_private=true&hide=prs&theme=slateorange&title_color=08D9D6&bg_color=50,000000,3E3636,000000&icon_color=08D9D6" alt="Prathamesh's GitHub Stats"/>
     </div><br><br>
     <div>
-      <img height="400em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=pie&theme=vision-friendly-dark&bg_color=50,000000,3E3636,000000&title_color=08D9D6" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshPatil-01&layout=pie&theme=vision-friendly-dark&bg_color=50,000000,3E3636,000000&title_color=08D9D6" alt="Top Languages" />
     </div>
   </div>
 </div><br>
@@ -174,4 +174,4 @@
 </div><br>
 
 ---
-[![Prathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathameshPatil-01&theme=merko&line=08D9D6)](https://github.com/PrathameshPatil-01/github-readme-activity-graph)
+[![Prathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathameshPatil-01&theme=high-contrast&line=08D9D6&title_color=08D9D6&bg_color=50,000000,3E3636,000000)](https://github.com/PrathameshPatil-01/github-readme-activity-graph)
