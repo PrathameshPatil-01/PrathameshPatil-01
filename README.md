@@ -9,8 +9,10 @@
 🚀 Committed to delivering clean, efficient, and well-documented code.<br><br>
 💡 Love turning ideas into innovative projects.
 </p>
-
 <br>
+
+[![Prathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathameshPatil-01&theme=github-compact&line=08D9D6&title_color=08D9D6&hide_border=true)](https://github.com/PrathameshPatil-01/github-readme-activity-graph)
+
 <div align="center">
   <h1>MY PORTFOLIO </h1><br>
   <a href="https://prathamesh-patil-700c0.web.app" target="_blank" rel="noopener noreferrer">
@@ -180,4 +182,4 @@
 </div><br>
 
 ---
-[![Prathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathameshPatil-01&theme=high-contrast&line=08D9D6&title_color=08D9D6&bg_color=50,000000,3E3636,000000)](https://github.com/PrathameshPatil-01/github-readme-activity-graph)
+
