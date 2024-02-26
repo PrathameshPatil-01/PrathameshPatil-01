@@ -11,7 +11,7 @@
 </p>
 <br>
 
-[![Prathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathameshPatil-01&theme=github-compact&line=08D9D6&title_color=08D9D6&hide_border=true)](https://github.com/PrathameshPatil-01/github-readme-activity-graph)
+[![Prathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathameshPatil-01&theme=github-compact&line=08D9D6&title_color=08D9D6&hide_border=true)]
 
 <div align="center">
   <h1>MY PORTFOLIO </h1><br>
