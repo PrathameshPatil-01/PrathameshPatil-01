@@ -3,15 +3,13 @@
 </p>
 
 <p align="center">
-💼 Currently seeking new opportunities in software development.<br><br>
+💻 Skilled in C++, App Development (Flutter), and Web Development<br><br>
 🌱 Enthusiastic about learning and adopting emerging technologies.<br><br>
-🔭 Exploring the worlds of mobile app development (Flutter/Dart), web development (MERN stack), and more.<br><br>
 🚀 Committed to delivering clean, efficient, and well-documented code.<br><br>
-💡 Love turning ideas into innovative projects.
+💡 Love turning ideas into innovative projects.<br><br>
+📫 Reach me at: <a href="mailto:prathameshp800@gmail.com">prathameshp800@gmail.com</a>
 </p>
 <br>
-
-[![Prathamesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrathameshPatil-01&theme=github-compact&line=08D9D6&title_color=08D9D6&hide_border=true)]
 
 <div align="center">
   <h1>MY PORTFOLIO </h1><br>
