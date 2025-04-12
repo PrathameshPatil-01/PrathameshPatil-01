@@ -9,6 +9,7 @@
 <!-- 💡 Love turning ideas into innovative projects.<br><br>-->
 📫 Reach me at: <a href="mailto:prathameshp800@gmail.com">prathameshp800@gmail.com</a> 
 </p>
+<br>
 
 <div align="center">
   <tr>
