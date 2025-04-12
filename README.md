@@ -3,13 +3,12 @@
 </p>
 
 <p align="center">
-💻 Skilled in C++, App Development (Flutter), and Web Development<br><br>
-🌱 Enthusiastic about learning and adopting emerging technologies.<br><br>
-🚀 Committed to delivering clean, efficient, and well-documented code.<br><br>
-💡 Love turning ideas into innovative projects.<br><br>
-📫 Reach me at: <a href="mailto:prathameshp800@gmail.com">prathameshp800@gmail.com</a>
+💻 Skilled in C++, Web Development and App Development (Flutter)<br><br>
+<!-- 🌱 Enthusiastic about learning and adopting emerging technologies.<br><br>-->
+🚀 Committed to delivering clean, efficient, and well-documented code.<br><br> 
+<!-- 💡 Love turning ideas into innovative projects.<br><br>-->
+📫 Reach me at: <a href="mailto:prathameshp800@gmail.com">prathameshp800@gmail.com</a> 
 </p>
-<br>
 
 <div align="center">
   <tr>
